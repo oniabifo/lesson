@@ -17,8 +17,10 @@ Follow the images below to create an ec2 instance on AWS
 
 
 Changes to Note: 
-a. give the ec2 instance a name
-b. also create a new key pair and call it a name. This key pair will be used to connect to the ec2 instance from local server
+```
+Give the ec2 instance a name
+Also create a new key pair and call it a name. This key pair will be used to connect to the ec2 instance from local server
+```
 
 Once the ec2 instance has been succesfully launched, You will ssh into the instance using a command like this
 ssh -i abi2.pem ubuntu@public-ip-address
