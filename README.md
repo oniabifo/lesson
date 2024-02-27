@@ -1,4 +1,4 @@
-# ANSIBLE PLAYBOOK INSTRUCTIONS
+# CREATING AN EC2 INSTANCE
 The first step is to register an account on AWS. 
 
 Once an account has been created, You will create an ec2 instance using an Ubuntu Image
@@ -18,9 +18,14 @@ Follow the images below to create an ec2 instance on AWS
 
 Changes to Note: 
 ```
-Give the ec2 instance a name
-Also create a new key pair and call it a name. This key pair will be used to connect to the ec2 instance from local server
+Give the ec2 instance a name you like
+Also create a new key pair and call it a name. This key pair will be used to connect to the ec2 instance from your local server
 ```
 
 Once the ec2 instance has been succesfully launched, You will ssh into the instance using a command like this
+
+# CONNECTING TO AN EC2 INSTANCE FROM LOCAL
 ssh -i abi2.pem ubuntu@public-ip-address
+
+
+# ANSIBLE PLAYBOOK INSTRUCTIONS
