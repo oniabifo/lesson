@@ -27,5 +27,7 @@ Once the ec2 instance has been succesfully launched, You will ssh into the insta
 # CONNECTING TO AN EC2 INSTANCE FROM LOCAL
 ssh -i abi2.pem ubuntu@public-ip-address
 
+If the connection is successful, It should look like the screenshot below
+![alt text](<Screenshot 2024-02-27 at 12.51.04 PM.png>)
 
 # ANSIBLE PLAYBOOK INSTRUCTIONS
