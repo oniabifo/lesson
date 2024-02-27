@@ -1,4 +1,4 @@
-#ANSIBLE PLAYBOOK INSTRUCTIONS
+# ANSIBLE PLAYBOOK INSTRUCTIONS
 The first step is to register an account on AWS. 
 
 Once an account has been created, You will create an ec2 instance using an Ubuntu Image
