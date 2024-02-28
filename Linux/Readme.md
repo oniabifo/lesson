@@ -61,54 +61,14 @@ In this unit, we will gain technical hands-on experience by using bash and the c
 
 You will use your local Vagrant virtual machine for today's activities.
 
-- Student access:
-    - Username:`sysadmin`
-    - Password: `cybersecurity`
+- Student access: You will log into the Ubuntu ec2 instance that was created on aws with your username and password
 
 ### What to Be Aware Of:
 
-- Your Vagrant local machine should be set-up before Day 1. 
+- Your Ubuntu EC2 Instance should be set-up before Day 1. 
 
 - Practice makes perfect! This is the first technical, hands-on unit of the course and it can take some hard work to adjust to. Take the time you need to practice getting used to working on the command line. 
 
-### Security+ Domains Covered
-
-This unit covers portions of the following domains on the Security+ exam:
-
-- 2.0 Technologies and Tools
-
-For more information about these Security+ domains, refer to the following resource: [Security+ Exam Objectives](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
-
-
-### Additional Reading and Resources
-
-<details> 
-<summary> Click here to view additional reading materials and resources. </summary>
-</br>
-
-These resources are provided as optional, recommended resources to supplement the concepts covered in this unit.
-
-
-- **Day 1 Resources**
-
-    - [Terminal Cheat Sheet](https://terminalcheatsheet.com/)
-
-    - [Computer Hope: Command line vs. GUI](https://www.computerhope.com/issues/ch000619.htm#:~:text=A%20GUI%20offers%20a%20lot,is%20utilized%20by%20more%20users.&text=A%20computer%20that%20is%20only,system%20resources%20than%20a%20GUI.)
- 
-
-    - [Programming Historian: Intro to Bash](https://programminghistorian.org/en/lessons/intro-to-bash)
-
-- **Day 2 Resources**
-
-    - [kernal.org: The Linux man-pages project](https://www.kernel.org/doc/man-pages/)
-
-    - [Computerfile: Where GREP Came From](https://www.youtube.com/watch?v=NTfOnGZUZDk)
-
-
-
-- **Day 3 Resources**
-
-    - [Advanced Bash Scripting Guide: Text Processing Commands](https://tldp.org/LDP/abs/html/textproc.html)
 
 </details>
 
