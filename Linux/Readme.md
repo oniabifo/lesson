@@ -72,19 +72,5 @@ You will use your local Vagrant virtual machine for today's activities.
 
 </details>
 
----
 
-### Unit #: Homework Assignment
-
-This unit's homework assignment can be viewed here: 
-
-- [Unit Homework File](../../2-Homework/03-Terminal-and-Bash)
-
-### Looking Forward 
-
-Next week, we will start thinking like system administrators. We will learn about the Linux operating system and build off the commands and skills we learn in Unit 3  in order to investigate and troubleshoot a malfunctioning server.
-
----
-
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.    
+© 2020 RELIOPS Education Services. All Rights Reserved.    
