@@ -12,13 +12,13 @@
 
 Using only the command line, complete the following tasks from within the `/Documents/` folder in your Ubuntu VM:
 
-  1. Create a folder called `Internal_Investigation`.
+  1. Create a folder called `_Internal_Investigation_Emp_1`.
 
-  2. Navigate into the `Internal_Investigation` folder.
+  2. Navigate into the `_Internal_Investigation_Emp_1` folder.
 
-  3. From within the `Internal_Investigation` folder, print the working directory to confirm you are in the correct place.
+  3. From within the `_Internal_Investigation_Emp_1` folder, print the working directory to confirm you are in the correct place.
 
-  4. Create three files inside the `Internal_Investigation` folder:
+  4. Create three files inside the `_Internal_Investigation_Emp_1` folder:
       * `fraud_email_evidence`
       * `call_log_evidence`
       * `surf_web_evidence`
